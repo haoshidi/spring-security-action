@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.czscloud</groupId>
-	<artifactId>security-oauth-resource-server</artifactId>
+	<artifactId>spring-security-oauth-smaple-rs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>security-oauth-resource-server</name>
-	<description>security-oauth-resource-server</description>
+	<name>spring-security-oauth-smaple-rs</name>
+	<description>Spring Security-oauth-resource-server</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR10</spring-cloud.version>

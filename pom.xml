@@ -15,5 +15,12 @@
     </properties>
     <modules>
         <module>spring-security</module>
+
+        <module>spring-security-oauth</module>
+
+        <module>spring-security-oauth-sample-as</module>
+        <module>spring-security-oauth-sample-rs</module>
+
+        <module>spring-security-oauth-jwt-rs</module>
     </modules>
 </project>
